@@ -1,0 +1,3 @@
+﻿  bomberman_2.cpp
+C:\Users\power\source\repos\bomberman_2\bomberman_2\bomberman_2.cpp(381,31): warning C4018: '<': signed/unsigned mismatch
+  bomberman_2.vcxproj -> C:\Users\power\source\repos\bomberman_2\Debug\bomberman_2.exe
